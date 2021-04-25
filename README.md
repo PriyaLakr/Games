@@ -1,5 +1,5 @@
 # Games
-Python Games ( beginner level )
+Python Games
 
 This repository contains small fun games. 
 
